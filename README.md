@@ -10,8 +10,8 @@ Skills: VUE JS / JS / HTML / CSS
 - 💬 Ask me about HTML / CSS / JS 
 - ⚡ Fun fact: easily bored 
 
-![Dimas' GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&theme=github_dark&layout=compact)
-![Dimas' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&theme=github_dark)
+![Dimas' GitHub stats](https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&layout=compact)
+![Dimas' GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/infinitedim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/infinitedim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/infinite.dim_/)  
