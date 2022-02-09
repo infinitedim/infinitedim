@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **React and Angular**
 
-- 👯 I’m looking to collaborate on **Project web sekolah**
-
 - 💬 Ask me about **vue, express**
 
 - 📫 How to reach me **dragdimas9@gmail.com**
