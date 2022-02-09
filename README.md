@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas Saputra</h1>
+
 <h3 align="center">A Student frontend developer from Indonesia</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=infinitedim&label=Profile%20views&color=0e75b6&style=flat" alt="infinitedim" /> </p>
@@ -17,7 +18,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://fb.com/dimas saputra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimas saputra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/infinitedim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="infinitedim" height="30" width="40" /></a>
+<a href="https://fb.com/dimas.saputra.35110418" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dimas.saputra.35110418" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/infinite.dim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="infinite.dim_" height="30" width="40" /></a>
 <a href="https://instagram.com/infinite.dim_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="infinite.dim_" height="30" width="40" /></a>
 </p>
 
