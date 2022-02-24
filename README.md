@@ -6,9 +6,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinitedim" alt="infinitedim" /></a> </p>
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **Vue, React, Angular, Django, Python**
 
-- 💬 Ask me about **vue, express**
+- 💬 Ask me about **Js**
 
 - 📫 How to reach me **dragdimas9@gmail.com**
 
