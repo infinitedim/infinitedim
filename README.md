@@ -6,13 +6,22 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=infinitedim" alt="infinitedim" /></a> </p>
 
-- 🌱 I’m currently learning **Vue, React, Angular, Django, Python, and Typescript**
+## 🌱 I’m currently learning 
+- <img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" width="40px" height="40px"> Vue
+- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40px" height="40px"> React
+- <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" width="40px" height="40px"> Angular
+- <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" width="40px" height="40px"> Django
+- <img src="https://cdn.worldvectorlogo.com/logos/python-package-index-1.svg" width="px" height="40px"> Python
+- <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40px" height="40px"> Typescript
 
-- 💬 Ask me about **Js**
+## 💬 Ask me about 
+- <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40px" height="40px">
+- <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40px" height="40px">
+- <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40px" height="40px">
 
-- 📫 How to reach me **dragdimas9@gmail.com**
+## 📫 How to reach me **dragdimas9@gmail.com**
 
-- ⚡ Fun fact **I'm introvert**
+## ⚡ Fun fact **I'm introvert**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
