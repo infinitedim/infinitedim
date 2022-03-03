@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dimas Saputra</h1>
+Kalo<h1 align="center">Hi 👋, I'm Dimas Saputra</h1>
 
 <h3 align="center">A Student Frontend Developer From Indonesia</h3>
 
@@ -60,15 +60,7 @@
 </div>
 
 
-## 📫 How to reach me
-<div align="center">
-  <a href="mailto:dragdimas9@gmail.com">
-    <img src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" alt="Send me email" width="40px" height="40px">
-  </a>
-  <a href="https://wa.me/6287875900676">
-    <img src="https://cdn.worldvectorlogo.com/logos/whatsapp-icon.svg" alt="Send me email" width="40px" height="40px">
-  </a>
-</div>
+## 📫 How to reach me **dragdimas9@gmail.com**
 
 ## ⚡ Fun fact **I'm introvert**
 
