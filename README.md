@@ -1,4 +1,4 @@
-Kalo<h1 align="center">Hi 👋, I'm Dimas Saputra</h1>
+<h1 align="center">Hi 👋, I'm Dimas Saputra</h1>
 
 <h3 align="center">A Student Frontend Developer From Indonesia</h3>
 
