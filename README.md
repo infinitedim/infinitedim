@@ -36,6 +36,4 @@
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&locale=en" alt="infinitedim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&locale=en" alt="infinitedim" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&" alt="infinitedim" /></p>
