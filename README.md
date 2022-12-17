@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **React, Express, Angular**
 
-- 👨‍💻 All of my projects are available at [infinitedim.vercel.app](infinitedim.vercel.app)
-
 - 💬 Ask me about **react, vue**
 
 - 📫 How to reach me **saputradimas.boediluhur@gmail.com**
