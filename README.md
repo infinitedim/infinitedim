@@ -5,7 +5,7 @@
 
 <br/>  
 
-### <h1>I'm Dimas, a fullstack web developer 👨‍💻 </h1>  
+### <h1 align="center">I'm Dimas, a fullstack web developer 👨‍💻 </h1>  
   
 
 - 🌱 I’m currently learning Golang and Vue  
