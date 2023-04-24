@@ -8,13 +8,13 @@
 ### <h1 align="center">I'm Dimas, a fullstack web developer 👨‍💻 </h1>  
   
 
-- 🌱 I’m currently learning Golang and Vue  
+- 🌱 I’m currently learning Rust and NextJS
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: Nothing 
+- ⚡ Fun fact: Hihihiha
   
 
 <br/>  
@@ -106,4 +106,4 @@
 
 <details><summary> Github Stats </summary><img src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&hide_border=true&layout=compact" align="left" /></details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&hide_border=true&layout=compact&langs_count=10" align="left" /></details>
