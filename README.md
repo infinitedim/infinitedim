@@ -8,7 +8,7 @@
 ### <h1 align="center">I'm Dimas, a fullstack web developer 👨‍💻 </h1>  
   
 
-- 🌱 I’m currently learning Rust and NextJS
+- 🌱 I’m currently learning Dart and Flutter
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
@@ -107,3 +107,6 @@
 <details><summary> Github Stats </summary><img src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&hide_border=true&layout=compact&langs_count=10" align="left" /></details>
+
+# My progress learn flutter in [roadmap.sh](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648971bf087cb48f41b8568f?variant=dark)](https://roadmap.sh)
