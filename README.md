@@ -108,5 +108,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&hide_border=true&layout=compact&langs_count=10" align="left" /></details>
 
-# My progress learn flutter in [roadmap.sh](https://roadmap.sh)
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/648971bf087cb48f41b8568f?variant=dark)](https://roadmap.sh)
+# My learning progress in roadmap.sh
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark&roadmaps=javascript%2Creact%2Ctypescript%2Cflutter)](https://roadmap.sh)
