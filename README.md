@@ -110,7 +110,7 @@
 
 # My learning progress in roadmap.sh
 <div>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark&roadmaps=flutter%2Cjavascript%2Creact%2Ctypescript" alt="roadmap.sh"/></a>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Ccode-review" alt="roadmap.sh"/></a>
 </div>
 
