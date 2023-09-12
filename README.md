@@ -5,13 +5,13 @@
 
 <br/>  
 
-### <h1 align="center">I'm Dimas, a fullstack web developer 👨‍💻 </h1>  
+<h1>Hii my name is dimas, just normal human 👨‍💻 </h1>  
   
 
 - 🌱 I’m currently learning Dart and Flutter
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the MERN stack and related technologies  
   
 
 - ⚡ Fun fact: Hihihiha
