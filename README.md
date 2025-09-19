@@ -2,7 +2,7 @@
 <div align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header&text=InfiniteDim&fontSize=30&fontAlignY=40&animation=twinkling&fontColor=fff">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%Dimas%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%20Dimas%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
   </picture>
 </div>
 
