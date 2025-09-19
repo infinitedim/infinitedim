@@ -69,7 +69,11 @@ const infiniteDim: Me = {
       "Node.js",
       "Express",
     ],
-    deployment: ["Docker", "Vercel", "CI/CD"]
+    deployment: [
+      "Docker",
+      "Vercel", 
+      "CI/CD",
+    ]
   },
   learning: "Always exploring new technologies",
   funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
