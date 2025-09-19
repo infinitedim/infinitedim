@@ -258,7 +258,6 @@ const infiniteDim = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 700px;">
   
   ### Thanks for visiting! 😊
-  #### 📱 This README is optimized for mobile devices
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer&animation=twinkling" width="100%" />
 </div>
