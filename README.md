@@ -207,7 +207,7 @@ const infiniteDim: Me = {
   </picture>
 </div>
 
-## 🐍 Contribution Activity
+<!-- ## 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -215,7 +215,7 @@ const infiniteDim: Me = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitedim/infinitedim/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infinitedim/infinitedim/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-</div>
+</div> -->
 
 ## 💭 Dev Quote of the Day
 
