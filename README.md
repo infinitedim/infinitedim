@@ -1,129 +1,281 @@
+<!-- Dynamic Header - Mobile Responsive -->
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=header&text=InfiniteDim&fontSize=30&fontAlignY=40&animation=twinkling&fontColor=fff">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hi%20there,%20I'm%20InfiniteDim%20👋&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%" />
+  </picture>
+</div>
+
+<!-- Typing SVG - Responsive -->
 <p align="center">
-  <svg width="60" height="30" viewBox="0 0 60 30">
-    <ellipse cx="15" cy="15" rx="15" ry="15" fill="#FFF" stroke="#555" stroke-width="2"/>
-    <ellipse cx="45" cy="15" rx="15" ry="15" fill="#FFF" stroke="#555" stroke-width="2"/>
-    <circle id="eyeL" cx="15" cy="15" r="7" fill="#6f42c1">
-      <animate attributeName="cx" values="13;17;13" dur="2s" repeatCount="indefinite"/>
-    </circle>
-    <circle id="eyeR" cx="45" cy="15" r="7" fill="#6f42c1">
-      <animate attributeName="cx" values="43;47;43" dur="2s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+  <a href="https://git.io/typing-svg">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=6366F1&center=true&vCenter=true&width=350&lines=Full+Stack+Developer;Mobile+%26+Web+Expert;Open+Source+Enthusiast">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Full+Stack+Developer+%7C+Mobile+%26+Web+Expert;Building+Cross-Platform+Applications;React+%2B+Next.js+%2B+Flutter+%2B+NestJS" alt="Typing SVG" />
+    </picture>
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/yourblooo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/infinitedim"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourblooo"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/infinitedim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<!-- Social Links & Badges - Mobile Friendly -->
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=About.me&logoColor=white)](https://github.com/infinitedim/portfolio)
+  [![GitHub followers](https://img.shields.io/github/followers/infinitedim?label=Follow&style=flat-square&logo=github&logoColor=white)](https://github.com/infinitedim)
+  [![Profile Views](https://komarev.com/ghpvc/?username=infinitedim&style=flat-square&color=blueviolet)](https://github.com/infinitedim)
+  
+</div>
 
 <br/>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
-</p>
+<!-- About Me Section - Mobile Optimized -->
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h1 align="left">Hi 👋, I'm Dimas</h1>
-      <h3 align="left">Just a normal human 👨‍💻 who loves to code and explore!</h3>
-      <ul>
-        <li>🌱 I’m currently learning <b>Dart and Flutter</b></li>
-        <li>💬 Ask me about <b>MERN stack and related technologies</b></li>
-        <li>✨ Fun fact: <b>Hihihiha</b></li>
-        <li>📫 How to reach me: <b>[via DM or social above]</b></li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="210" alt="Coding gif"/>
-    </td>
-  </tr>
-</table>
+## 🚀 About Me
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=600&color=6F42C1&center=true&vCenter=true&width=380&lines=Frontend+Developer;Flutter+Enthusiast;Let's+Do+Nothing!" alt="Typing SVG" />
-</p>
+<div align="left">
+  
+```typescript
+const infiniteDim = {
+    pronouns: "He/Him",
+    location: "🌏 Indonesia",
+    currentFocus: "Cross-platform development",
+    
+    expertise: {
+        mobile: ["Flutter", "Dart"],
+        frontend: ["React", "Next.js", "TypeScript"],
+        backend: ["NestJS", "Node.js", "Express"],
+        deployment: ["Docker", "Vercel", "CI/CD"]
+    },
+    
+    learning: "Always exploring new technologies",
+    funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
+};
+```
 
----
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=infinitedim&theme=radical&column=4&no-frame=true" alt="Trophies"/>
-</p>
+<!-- Animated Tech Stack Section -->
 
----
+## 💻 Tech Stack
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<div align="center">
+  <h3>🎨 Frontend Development</h3>
+  
+  <a href="https://reactjs.org/">
+    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+  </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="65" height="65" />
+  </a>
+  
+  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  
+  <h3>⚙️ Backend & DevOps</h3>
+  
+  <a href="https://www.docker.com/">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+  </a>
+  
+  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+  
+  <h3>📱 Mobile Development</h3>
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  
+  <h3>🗄️ Database & Tools</h3>
+  
+  <a href="https://github.com/">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+  </a>
+  
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  
+  <h3>🧪 Testing</h3>
+  
+  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+  
+</div>
 
+<!-- Additional Tech Stack with Badges -->
+
+## 🛠️ Additional Technologies
+
+<div align="center">
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<!-- GitHub Stats - Responsive Layout -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  
+  <!-- Streak Stats -->
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=350">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  </picture>
+  
+</div>
+
+<!-- Stats Cards - Stack on Mobile -->
+<div align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&card_width=350">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&layout=compact&hide_border=true&theme=tokyonight&card_width=350">
+    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
+  </picture>
+</div>
+
+<!-- Activity Graph - Hidden on Mobile -->
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinitedim&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  </picture>
+</div>
+
+<!-- Featured Projects - Responsive Grid -->
+
+## 🌟 Featured Projects
+
+<div align="center">
   <table>
     <tr>
-      <td valign="top" width="33%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">  
-          <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-          <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-          <a href="https://www.javascript.com/" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" height="60" /></a>
-          <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
-          <a href="https://react.dev/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="reactjs" height="60" /></a>
-          <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" height="60"/></a>
-          <a href="https://sass-lang.com/" target="_blank"><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="sass" height="60" /></a>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Backend</h3>
-        <div align="center">  
-          <a href="https://www.javascript.com/" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" height="60" /></a>
-          <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" height="60"/></a>
-          <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-          <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-          <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
-          <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" height="50" /></a>
-          <a href="https://go.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/go-original.svg" alt="Go" height="50" /></a>
-          <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" height="60" /></a>
-        </div>
-      </td>
-      <td valign="top" width="33%">
-        <h3 align="center">Other Tools</h3>
-        <div align="center">  
-          <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>
-          <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>
-          <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Adobe XD" height="50" /></a>
-          <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-          <a href="https://webpack.js.org/" target="_blank"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" height="60" /></a>
-          <a href="https://prettier.io" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" height="60" /></a>
-          <a href="https://docker.com/" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" height="60" /></a>
-          <a href="https://eslint.org" target="_blank"><img style="margin: 10px" src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="ESLint" height="60" /></a>
+      <td width="100%">
+        <h3 align="center">📁 Portfolio</h3>
+        <div align="center">
+          <a href="https://github.com/infinitedim/portfolio" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=infinitedim&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+          </a>
+          <p>
+            <a href="https://github.com/infinitedim/portfolio">
+              <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+            </a>
+          </p>
         </div>
       </td>
     </tr>
   </table>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&layout=compact&theme=radical" />
-</p>
-
----
-
-<h2 align="center">My learning progress at roadmap.sh</h2>
-
-<div>
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark" alt="roadmap.sh"/></a>
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/648971bf087cb48f41b8568f?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Ccode-review" alt="roadmap.sh"/></a>
 </div>
 
----
+<!-- Trophies - Responsive -->
 
-<h2 align="center">Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infinitedim&theme=red&hide_border=true" alt="Contribution Graph"/>
-</p>
+## 🏆 GitHub Achievements
 
----
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://github-profile-trophy.vercel.app/?username=infinitedim&theme=tokyonight&no-frame=true&column=3&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=infinitedim&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophy" />
+  </picture>
+</div>
 
-<p align="center">⭐️ Thank you for visiting my profile! ⭐️</p>
+<!-- Contribution Snake -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infinitedim/infinitedim/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infinitedim/infinitedim/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/infinitedim/infinitedim/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
+
+<!-- Random Quote - Mobile Friendly -->
+
+## 💭 Dev Quote of the Day
+
+<div align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  </picture>
+</div>
+
+<!-- Connect Section - Mobile Optimized -->
+
+## 🤝 Let's Connect
+
+<div align="center">
+  
+  ### 📬 Reach out to me
+  
+  <p>
+    <a href="https://github.com/infinitedim">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="mailto:your.email@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  <p>
+    <a href="https://linkedin.com/in/yourusername">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://twitter.com/yourusername">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://instagram.com/yourusername">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </p>
+</div>
+
+## 🎮 Interactive GitHub Stats & Snake
+
+<div align="center">
+  
+  <!-- 3D Contribution Chart -->
+  <img src="https://skyline.github.com/infinitedim/2024" width="100%" alt="3D Contribution Chart" />
+  
+  <!-- Contribution Stats Grid -->
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/infinitedim/infinitedim/output/snake.svg" alt="Snake animation" />
+      </td>
+    </tr>
+  </table>
+  
+</div>
+
+<!-- Footer Animation -->
+<div align="center">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="max-width: 700px;">
+  
+  ### Thanks for visiting! 😊
+  #### 📱 This README is optimized for mobile devices
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=80&section=footer&animation=twinkling" width="100%" />
+</div>
