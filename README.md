@@ -246,27 +246,18 @@ const infiniteDim = {
   </p>
 </div>
 
-## 🎮 Interactive GitHub Stats & Snake
+## 🎮 Let's play some game
 
-<div align="center">
-  
-  <!-- 3D Contribution Chart -->
-  <img src="https://skyline.github.com/infinitedim/2024" width="100%" alt="3D Contribution Chart" />
-  
-  <!-- Contribution Stats Grid -->
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://raw.githubusercontent.com/infinitedim/infinitedim/output/snake.svg" alt="Snake animation" />
-      </td>
-    </tr>
-  </table>
-  
+<div align="center" style="width: 100%">
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
+  </a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  </a>
 </div>
 
 <!-- Footer Animation -->
