@@ -51,32 +51,32 @@ funFact: string;
 }
 
 const infiniteDim: Me = {
-  pronouns: "He/Him",
-  location: "🌏 Indonesia",
-  currentFocus: "Cross-platform development",
-  expertise: {
-    mobile: [
-      "Flutter",
-      "Dart",
-    ],
-    frontend: [
-      "React",
-      "Next.js",
-      "TypeScript",
-    ],
-    backend: [
-      "NestJS", 
-      "Node.js",
-      "Express",
-    ],
-    deployment: [
-      "Docker",
-      "Vercel", 
-      "CI/CD",
-    ]
-  },
-  learning: "Always exploring new technologies",
-  funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
+pronouns: "He/Him",
+location: "🌏 Indonesia",
+currentFocus: "Cross-platform development",
+expertise: {
+mobile: [
+"Flutter",
+"Dart",
+],
+frontend: [
+"React",
+"Next.js",
+"TypeScript",
+],
+backend: [
+"NestJS",
+"Node.js",
+"Express",
+],
+deployment: [
+"Docker",
+"Vercel",
+"CI/CD",
+]
+},
+learning: "Always exploring new technologies",
+funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
 };
 
 ```
@@ -153,23 +153,10 @@ const infiniteDim: Me = {
 
 ## 📊 GitHub Statistics
 
+<!-- Stats from [github-stats-transparent](https://github.com/AndrewDongminYoo/github-stats-transparent). English templates: copy [stats-templates-en/](stats-templates-en/) overview.svg & languages.svg into fork [infinitedim/github-stats-transparent](https://github.com/infinitedim/github-stats-transparent) templates/ folder, then run "Generate Stats Images" workflow. -->
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=350">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=infinitedim&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </picture>
-
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&card_width=350">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=infinitedim&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  </picture>
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&layout=compact&hide_border=true&theme=tokyonight&card_width=350">
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=infinitedim&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/infinitedim/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/infinitedim/github-stats-transparent/output/generated/languages.svg" alt="Most Used Languages" />
 </div>
 
 <div align="center">
