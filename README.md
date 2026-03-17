@@ -42,41 +42,41 @@ interface Expertise {
 }
 
 interface Me {
-pronouns: string;
-location: string;
-currentFocus: string;
-expertise: Expertise;
-learning: string;
-funFact: string;
+  pronouns: string;
+  location: string;
+  currentFocus: string;
+  expertise: Expertise;
+  learning: string;
+  funFact: string;
 }
 
 const infiniteDim: Me = {
-pronouns: "He/Him",
-location: "🌏 Indonesia",
-currentFocus: "Cross-platform development",
-expertise: {
-mobile: [
-"Flutter",
-"Dart",
-],
-frontend: [
-"React",
-"Next.js",
-"TypeScript",
-],
-backend: [
-"NestJS",
-"Node.js",
-"Express",
-],
-deployment: [
-"Docker",
-"Vercel",
-"CI/CD",
-]
-},
-learning: "Always exploring new technologies",
-funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
+  pronouns: "He/Him",
+  location: "🌏 Indonesia",
+  currentFocus: "Cross-platform development",
+  expertise: {
+    mobile: [
+      "Flutter",
+      "Dart",
+    ],
+    frontend: [
+      "React",
+      "Next.js",
+      "TypeScript",
+    ],
+    backend: [
+      "NestJS",
+      "Node.js",
+      "Express",
+    ],
+    deployment: [
+      "Docker",
+      "Vercel",
+      "CI/CD",
+    ]
+  },
+  learning: "Always exploring new technologies",
+  funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
 };
 
 ```
