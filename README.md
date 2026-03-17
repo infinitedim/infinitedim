@@ -172,14 +172,27 @@ funFact: "Coffee ☕ => Code 💻 => Repeat 🔄"
 <div align="center">
   <table>
     <tr>
-      <td width="100%">
-        <h3 align="center">📁 Portfolio</h3>
+      <td width="50%">
+        <h3 align="center">📁 Portfolio Backend</h3>
         <div align="center">
-          <a href="https://github.com/infinitedim/portfolio" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=infinitedim&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio" />
+          <a href="https://github.com/infinitedim/portfolio-backend" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=infinitedim&repo=portfolio-backend&theme=tokyonight&hide_border=true" alt="Portfolio" />
           </a>
           <p>
-            <a href="https://github.com/infinitedim/portfolio">
+            <a href="https://github.com/infinitedim/portfolio-backend">
+              <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
+            </a>
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📁 Portfolio Frontend</h3>
+        <div align="center">
+          <a href="https://github.com/infinitedim/portfolio-frontend" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=infinitedim&repo=portfolio-frontend&theme=tokyonight&hide_border=true" alt="Portfolio" />
+          </a>
+          <p>
+            <a href="https://github.com/infinitedim/portfolio-frontend">
               <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Code" />
             </a>
           </p>
